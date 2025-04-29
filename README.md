@@ -29,7 +29,7 @@
 ###
 
 
-<p align="left">I'm Kirti Sharma From Mumbai.<br><br>
+<p align="left">I'm Kirti Sharma.<br><br>
 🚀 Program and Project management | Data Enthusiast 🤖<br><br>🌟 Turning data into actionable insights, with a passion for solving real-world problems using advanced analytics and data-driven strategies.<br><br>🔥 Fluent in Python,and SQL, building predictive models that drive business growth and innovation.<br><br>🤖 Exploring the depths of Data and Strategy building, shaping tomorrow’s solution through data and automation.
 <br><br>📊 Visualizing stories through data, crafting interactive dashboards and presenting insights that empower decision-making.<br><br>💡 Always innovating and automating processes because efficiency is the cornerstone of progress.<br><br> 👨‍💻 Join me on this exciting journey of exploring data, learning new technologies, and reshaping the future with AI and Machine Learning! 🚀✨
 <br><br>#Operation Associate #Data Explorer #Automation #DataDriven</p>
